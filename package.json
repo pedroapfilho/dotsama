@@ -1,0 +1,8 @@
+{
+  "name": "dotsama",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:pedroapfilho/dotsama.git",
+  "author": "Pedro Filho <pedro@filho.me>",
+  "license": "MIT"
+}
